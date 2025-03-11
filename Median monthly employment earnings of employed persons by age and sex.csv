@@ -1,9 +1,5 @@
-﻿Table 210-06314 : Median monthly employment earnings of employed persons by age and sex,,,,,
- ,,,,,
- , , ,Median monthly employment earnings of employed persons (1) (2),Median monthly employment earnings of employed persons (1) (2),Median monthly employment earnings of employed persons (1) (2)
-,,,HK$,HK$,HK$
-Sex,,,Male,Female,Both sexes
-Year / Moving 3-month period,,Age group,,,
+Sex,,,,,
+Year / Moving 3-month period,,Age group,Median monthly employment earnings of employed male,Median monthly employment earnings of employed female,Median monthly employment earnings of employed both sexes
 2023,,15 - 24,15100,14400,15000
 2023,,25 - 34,23000,20000,20500
 2023,,35 - 44,27700,17200,21900
@@ -181,7 +177,7 @@ Year / Moving 3-month period,,Age group,,,
 10/2024 - 12/2024,,15 and over,24300,17000,20000
  ,,,,,
 Note(s):,,,,,
-"Median monthly employment earnings are rounded to the nearest hundred.Starting from 2001, annual figures are compiled based on the survey results of the General Household Survey from January to December of the year concerned as well as the mid-year population estimates and may be regarded as referring to the overall situation of the whole year. ",,,,,
+"Median monthly employment earnings are rounded to the nearest hundred.Starting from 2001, annual figures are compiled based on the survey results of the General Household Survey from January to December of the year concerned as well as the mid-year population estimates and may be regarded as referring to the overall situation of the whole year.",,,,,
 "1 Monthly employment earnings refer to earnings (before deduction of Mandatory Provident Fund contributions) from all jobs during the month before enumeration. For employees, they include wage and salary, bonus, commission, tips, housing allowance, overtime allowance, attendance allowance and other cash allowances. However, back pays are excluded. For employers and self-employed, they refer to amounts drawn from the self-owned enterprise for personal and household use. If information on the amounts drawn for personal and household use is not available, data on net earnings from business would be collected instead.",,,,,
 2 Employed persons refer to those persons aged 15 and over who have been engaged in performing work for pay or profit during the 7 days before enumeration or who have had formal job attachment. Unpaid family workers and employed persons who were on leave/holiday during the 7 days before enumeration are included.,,,,,
  ,,,,,
